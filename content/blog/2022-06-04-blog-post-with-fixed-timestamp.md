@@ -8,3 +8,7 @@ here's an excerpt
 <!-- more -->
 
 and here's the content
+
+<some-component foo="1234"></some-component>
+
+![alt text](https://i.imgur.com/NWlUDdn.jpeg "title text")
