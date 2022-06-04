@@ -8,3 +8,5 @@ here's an excerpt
 <!-- more -->
 
 and here's the content
+
+<some-component foo="1234"></some-component>
